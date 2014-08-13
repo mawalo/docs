@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Siba Developer Guide'
+project = u'Mawalo Guide'
 copyright = u'2014, Knowledge Works,Inc'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -178,7 +178,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'SibaDeveloperDocumentdoc'
+htmlhelp_basename = 'MawaloDocumentdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -198,7 +198,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'SibaDeveloperDocument.tex', u'Siba Developer Document Documentation',
+  ('index', 'MawaloDocument.tex', u'Mawalo Document Documentation',
    u'Knowledge Works,Inc', 'manual'),
 ]
 
@@ -228,7 +228,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'sibadeveloperdocument', u'Siba Developer Document Documentation',
+    ('index', 'mawalodocument', u'Mawalo Document Documentation',
      [u'Knowledge Works,Inc'], 1)
 ]
 
@@ -242,8 +242,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'SibaDeveloperDocument', u'Siba Developer Document Documentation',
-   u'Knowledge Works,Inc', 'SibaDeveloperDocument', 'One line description of project.',
+  ('index', 'MawaloDocument', u'Mawalo Document Documentation',
+   u'Knowledge Works,Inc', 'MawaloDocument', 'One line description of project.',
    'Miscellaneous'),
 ]
 
