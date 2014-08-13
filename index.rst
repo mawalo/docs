@@ -1,4 +1,4 @@
-.. Siba Developer Document documentation master file, created by
+.. Mawalo GUide master file, created by
    sphinx-quickstart on Tue Jul 15 11:37:21 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -10,7 +10,7 @@
    :alt: mawalo
 
 
-このドキュメントは、マワロさん を使用して、自社のウェブサイトやモバイルアプリに検索機能
+マワロ を使用して、自社のウェブサイトやモバイルアプリに検索機能
 を実装する開発者向けの技術ドキュメントです。
 
 .. note::
