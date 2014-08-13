@@ -10,12 +10,11 @@
    :alt: mawalo
 
 
-マワロ を使用して、自社のウェブサイトやモバイルアプリに検索機能
-を実装する開発者向けの技術ドキュメントです。
+マワロのガイドドキュメントです。
 
 .. note::
 
-    `Siba（シーバ） <http://siba.tokyo>`_ は、`ナレッジワークス株式会社 <http://www.knowledge-works.co.jp>`_ が運営する Elasticsearch ベースのサーチ・バックエンドサービスです。
+    マワロは、`ナレッジワークス株式会社 <http://www.knowledge-works.co.jp>`_ が運営するアプリです。
 
 .. toctree::
    :maxdepth: 2
