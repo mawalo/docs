@@ -22,15 +22,3 @@
 
    policy/index
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-Todo List
-==================
-
-.. todolist::
