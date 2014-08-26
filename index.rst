@@ -11,7 +11,7 @@
 
 
 マワロのガイドドキュメントです。
-   1. `How to start マワロ <http://snapguide.com/guides/start-mawaro/>`_
+
 
 .. note::
 
