@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-マワロ mawalo ガイド
+マワロ の使い方
 ===================================================
 .. image:: /_static/mawalo_logo.png
    :width: 240px
@@ -11,6 +11,7 @@
 
 
 マワロのガイドドキュメントです。
+   `How to start マワロ<http://snapguide.com/guides/start-mawaro/>`_
 
 .. note::
 
