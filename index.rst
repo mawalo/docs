@@ -11,7 +11,7 @@
 
 
 マワロのガイドです。
-1.`How to use マワロ <http://mawalo.readthedocs.org/ja/latest/>`_ 
+    1. `How to use マワロ <http://mawalo.readthedocs.org/ja/latest/>`_ 
 
 
 .. note::
