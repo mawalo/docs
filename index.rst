@@ -10,7 +10,8 @@
    :alt: mawalo
 
 
-マワロのガイドです。です。
+マワロのガイドです。
+1.`How to use マワロ <http://mawalo.readthedocs.org/ja/latest/>`_ 
 
 
 .. note::
